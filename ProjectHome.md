@@ -1,0 +1,1 @@
+Tricks inspired by The Art of Multiprocessor Programming, by Maurice Herlihy and Nir Shavit.
